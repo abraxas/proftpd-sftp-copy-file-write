@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/proftpd-sftp-copy-file-write">proftpd-sftp-copy-file-write</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/proftpd-sftp-copy-file-write"><strong>https://abraxaslabs.tech/research/proftpd-sftp-copy-file-write</strong></a>
+</p>
+
 
 # proftpd-sftp-copy-file-write
 
